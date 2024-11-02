@@ -2,7 +2,6 @@
 # Maria Andriana Dalen, MAD
 # 2024-11-02
 
-
 # Python-program som beregner og presenterer de årlige totalkostnadene for elbil og bensinbil, 
 # samt årlig kostnadsdifferanse basert på informasjonen under.
 
